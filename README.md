@@ -1,2 +1,2 @@
 # mytumblrtheme
-Repo for my tumblr theme
+Repo for the codes in my Tumblr custom theme.
